@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/writeInternalF"
+        android:title="Write to internal file"
+        />
+    <item android:id="@+id/clearList"
+        android:title="ClearList"
+        />
+    <item android:id="@+id/readFile"
+        android:title="Read from internal file"
+        />
+</menu>
